@@ -1,2 +1,1 @@
-# CSP
-Cutting Stock Problem
+
